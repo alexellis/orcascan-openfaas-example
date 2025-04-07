@@ -25,5 +25,9 @@ It'll listen on port 8080, so you can simple test it with curl:
 curl --data-binary @./payload.json http://localhost:8080/ -H "Content-Type: application/json"
 ```
 
+The email should be rejected, now change the email to "test@example.com" and run the command again.
+
+It should be accepted at that point.
+
 To deploy the function to OpenFaaS, make sure you edit the `image:` field to use your own container registry, then run `faas-cli up --gateway https://gateway.example.com`
 
