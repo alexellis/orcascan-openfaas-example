@@ -1,7 +1,7 @@
 {
     "___orca_action": "add",
     "___orca_sheet_name": "Sheet1",
-    "___orca_user_email": "alex@x.com",
+    "___orca_user_email": "test@openfaas.com",
     "rows": [
         {
             "Barcode": "757483456",
