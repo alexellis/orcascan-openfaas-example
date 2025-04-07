@@ -1,0 +1,31 @@
+{
+    "___orca_action": "add",
+    "___orca_sheet_name": "Sheet1",
+    "___orca_user_email": "alex@x.com",
+    "rows": [
+        {
+            "Barcode": "757483456",
+            "Name": "John",
+            "Location": "",
+            "Date": "",
+            "quantity": "1",
+            "___orca_row_id": "5cf5c1efc66a9681047a0f31"
+        },
+        {
+            "Barcode": "12537468",
+            "Name": "Owen",
+            "Location": "",
+            "Date": "",
+            "quantity": "2",
+            "___orca_row_id": "5cf5c1efc66a9681047a0f32"
+        },
+        {
+            "Barcode": "85636462",
+            "Name": "Rhys",
+            "Location": "",
+            "Date": "",
+            "quantity": "3",
+            "___orca_row_id": "5cf5c1efc66a9681047a0f33"
+        }
+    ]
+}

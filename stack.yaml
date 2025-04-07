@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  test:
+    lang: node20
+    handler: ./node-example
+    image: ttl.sh/alexellis/node-orcascan:0.1.0
+
+
